@@ -93,7 +93,7 @@
         <artifactId>maven-war-plugin</artifactId>
         <version>3.3.1</version>
         <configuration>
-          <failOnMissingWebXml>false</failOnMissingWebXml> <!-- Add this if you don't have a web.xml -->
+          <failOnMissingWebXml>false</failOnMissingWebXml> <!-- Add this if you don't have aa web.xml -->
         </configuration>
       </plugin>
 
